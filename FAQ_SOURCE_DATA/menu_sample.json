@@ -1,0 +1,81 @@
+{
+    "sashimi": [
+      {
+        "menu_name": "모둠 사시미",
+        "description": "다양한 생선회(참치, 연어, 광어 등) 모둠",
+        "recommended_sake": "준마이다이긴조 사케",
+        "recommendation_reason": "다양한 생선의 감칠맛과 사케의 깔끔한 뒷맛이 조화로움",
+        "recommended_side_dishes": ["에다마메", "다코와사비"],
+        "side_dish_reason": "사시미와 함께 입가심하며 먹기 좋은 가벼운 안주"
+      },
+      {
+        "menu_name": "마구로 사시미",
+        "description": "신선한 참치회",
+        "recommended_sake": "혼조조 사케",
+        "recommendation_reason": "참치의 고소한 맛과 혼조조 사케의 깊은 풍미가 어울림",
+        "recommended_side_dishes": ["니기리 스시", "다코와사비"],
+        "side_dish_reason": "참치 사시미와 스시를 함께 즐기면 더욱 풍부한 맛을 경험 가능"
+      },
+      {
+        "menu_name": "사몬 사시미",
+        "description": "고소한 연어회",
+        "recommended_sake": "스파클링 사케",
+        "recommendation_reason": "연어의 기름진 풍미를 스파클링 사케가 상큼하게 잡아줌",
+        "recommended_side_dishes": ["치즈멘타이코", "마키 스시"],
+        "side_dish_reason": "연어와 명란 치즈의 조합은 풍부한 감칠맛을 제공"
+      }
+    ],
+    "sushi_rolls": [
+      {
+        "menu_name": "니기리 스시",
+        "description": "생선 초밥 (참치, 연어, 장어 등)",
+        "recommended_sake": "다이긴조 사케",
+        "recommendation_reason": "다양한 초밥의 신선한 풍미를 살려주는 깨끗하고 부드러운 사케",
+        "recommended_side_dishes": ["가라아게", "오차즈케"],
+        "side_dish_reason": "초밥과 바삭한 튀김, 따뜻한 녹차밥이 어우러져 균형 잡힌 식사 제공"
+      },
+      {
+        "menu_name": "마키 스시",
+        "description": "김밥처럼 말아 만든 롤 스시",
+        "recommended_sake": "츄하이 (유자)",
+        "recommendation_reason": "다양한 재료가 조화롭게 들어간 롤 스시와 과일 향이 나는 츄하이가 상큼한 조합",
+        "recommended_side_dishes": ["에비 텐푸라", "타코야키"],
+        "side_dish_reason": "바삭한 새우튀김과 부드러운 타코야키가 곁들여지면 더욱 다채로운 맛 제공"
+      }
+    ],
+    "grilled_dishes": [
+      {
+        "menu_name": "야키토리",
+        "description": "일본식 닭꼬치 구이 (소금구이/데리야끼)",
+        "recommended_sake": "쇼츄 (보리)",
+        "recommendation_reason": "숯불 향이 살아있는 닭꼬치와 쇼츄의 부드러운 맛이 조화로움",
+        "recommended_side_dishes": ["츠케모노", "네기마"],
+        "side_dish_reason": "상큼한 절임 반찬이 닭꼬치의 기름진 맛을 중화해 줌"
+      }
+    ],
+    "fried_dishes": [
+      {
+        "menu_name": "가라아게",
+        "description": "일본식 바삭한 닭튀김",
+        "recommended_sake": "아사히 맥주",
+        "recommendation_reason": "바삭한 튀김과 맥주의 청량감이 완벽한 조합",
+        "recommended_side_dishes": ["야키소바", "에다마메"],
+        "side_dish_reason": "바삭한 치킨과 고소한 볶음면을 함께 먹으면 더욱 풍부한 맛"
+      }
+    ],
+    "japanese_sake": [
+      {
+        "menu_name": "사케 (日本酒, 니혼슈)",
+        "description": "따뜻하게 또는 차갑게 마시는 일본식 청주",
+        "recommended_side_dishes": ["모둠 사시미", "우나기 가바야키", "다코와사비"],
+        "side_dish_reason": "니혼슈의 깔끔한 맛이 사시미의 신선함을 더욱 돋보이게 함"
+      },
+      {
+        "menu_name": "아사히 / 삿포로 맥주",
+        "description": "일본 대표 맥주",
+        "recommended_side_dishes": ["카키후라이", "타코야키", "야키소바"],
+        "side_dish_reason": "시원한 맥주와 바삭한 튀김, 짭짤한 볶음면이 환상적인 조합"
+      }
+    ]
+  }
+  
